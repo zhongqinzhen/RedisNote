@@ -11,3 +11,5 @@
 ### [3.主从复制](https://github.com/zhongqinzhen/RedisNote/blob/master/3.%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md)
 
 ### [4.哨兵模式](https://github.com/zhongqinzhen/RedisNote/blob/master/4.%E5%93%A8%E5%85%B5%E6%A8%A1%E5%BC%8F.md)
+### [5.Redis集群](https://github.com/zhongqinzhen/RedisNote/blob/master/5.Redis%E9%9B%86%E7%BE%A4.md)
+
